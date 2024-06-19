@@ -1,6 +1,4 @@
-## Hi there 👋
 
-## Visitor badge
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aman304gupta.aman304gupta" />
 
 <h1 align="center">
@@ -13,9 +11,9 @@
 
 <div align="center">
 
-  🔭 I’m currently working on **a chat app**
+  🔭 I’m currently working on **a NextJs web-app**
 
-  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+  🌱 I’m currently learning **NextJs(React), Kubernetes, Tailwind**
 
   ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -23,7 +21,7 @@
 
 <div align="center">
     <a href"mailto:aman304gupta@gmail.com">
-        <img src"https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
     </a>
     <a href="https://www.linkedin.com/in/aman304gupta/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
