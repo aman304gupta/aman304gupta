@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+## Visitor badge
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aman304gupta.aman304gupta" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?  font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Aman+Gupta!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Aman+Gupta!;"/>
 </h1> 
 
 <h3 align="center">A passionate software developer </h3>
@@ -38,12 +39,18 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,wasm"/> <br>
-      <img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
+      <img src="https://skillicons.dev/icons?i=cpp,nextjs,react,ts,nodejs,postgres"/> <br>
+      <img src="https://skillicons.dev/icons?i=tailwind,git,docker,py,mongodb"/>
   </a>
 </div>
 
+<br />
+<hr />
 
+<div align="center">
+  <h2> 🐍 My Contributions 🐍 </h2>
+  <br>
+  <img alt="snake eating my contributions" src="" />
     
 
 
